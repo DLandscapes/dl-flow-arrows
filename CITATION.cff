@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use DL Flow Arrows in your work, please cite it as below."
+type: software
+title: "DL Flow Arrows"
+abstract: >-
+  A QGIS Processing script that turns a terrain model (DTM) into a point layer of flow arrows - the fall line or the D8
+  flow direction - with the catchment area of every point, computed the way SAGA GIS's Flow Accumulation (Top-Down)
+  does. Drawn with one standard QGIS symbol; optional arrows as lines for CAD and Blender.
+authors:
+  - given-names: Marc
+    family-names: Ihle
+    affiliation: "Digital Landscapes"
+version: "1.0.0"
+date-released: "2026-10-28"
+license: GPL-3.0-or-later
+url: "https://digital-landscapes.com"
+repository-code: "https://github.com/DLandscapes/dl-flow-arrows"
+keywords:
+  - QGIS
+  - terrain
+  - flow direction
+  - catchment area
+  - landscape architecture
+  - digital elevation model
