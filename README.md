@@ -1,5 +1,7 @@
 # DL Flow Arrows
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23723033.svg)](https://doi.org/10.5281/zenodo.23723033)
+
 A QGIS Processing script by [Digital Landscapes](https://digital-landscapes.com). A terrain (DTM) goes in. A point
 layer comes out: one point per cell, or per block of cells. Its attributes say where water would flow from there and
 how much area drains through it. The points are drawn as arrows by one standard QGIS symbol, which you restyle like any
@@ -123,6 +125,12 @@ and two 1 m survey DTMs; the survey DTMs are not part of this repository.
 
 If you use DL Flow Arrows in teaching or research, please cite it. See [`CITATION.cff`](CITATION.cff); GitHub's "Cite
 this repository" button gives APA and BibTeX.
+
+> Ihle, M. (2026). *DL Flow Arrows* (Version 1.0.0) [Computer software]. Digital Landscapes.
+> https://doi.org/10.5281/zenodo.23723034
+
+To cite the tool in general rather than this version, use the DOI for all versions,
+[10.5281/zenodo.23723033](https://doi.org/10.5281/zenodo.23723033). It always resolves to the newest release.
 
 ## Licence
 

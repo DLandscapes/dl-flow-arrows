@@ -11,6 +11,7 @@ authors:
     family-names: Ihle
     affiliation: "Digital Landscapes"
 version: "1.0.0"
+doi: 10.5281/zenodo.23723033
 date-released: "2026-10-28"
 license: GPL-3.0-or-later
 url: "https://digital-landscapes.com"
